@@ -12,10 +12,8 @@ The project is structured to maintain a clean separation between source code, do
     *   **`example1_brine_tank.wxmx`** - A wxMaxima session solving **Example 1**: A 1500-gallon tank receiving a brine solution with a trigonometric concentration curve over time. It features a fully analytical solution.
     *   **`example2_pollutants.py`** - A Python script using `scipy.integrate.solve_ivp` to solve **Example 2**: A two-stage chemical pollutant retention tank problem. Python was chosen here due to the complexity of the piece-wise differential equation where the flow parameters drastically change after a threshold is reached.
 *   `docs/` - Contains project documentation.
-    *   `project_report.pdf` (or .docx) - The main theoretical document and report detailing the mathematical models and the context of the solved examples.
+    *   `project_report.docx` - The main theoretical document and report detailing the mathematical models and the context of the solved examples.
     *   `presentation.pptx` - A presentation summarizing the project's findings.
-*   `results/` - Contains the output data.
-    *   `results.txt` - Console output and error logs generated during the Python script execution.
 
 ## ⚙️ Setup & Installation
 To run the Python multi-stage simulation, you need to install the required dependencies.
