@@ -27,7 +27,7 @@ To run the Python multi-stage simulation, you need to install the required depen
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: `numpy`, `scipy`, `matplotlib`, and `pillow` are required).*
+* (Note: `numpy`, `scipy`, `matplotlib`, and `pillow` are required).*
 
 ## 🚀 Usage
 
