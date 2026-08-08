@@ -3,8 +3,7 @@
 ## 📌 Overview
 This directory contains the main theoretical document for the project, titled "Praktyczne zastosowanie równań różniczkowych w mieszaninach" (Practical application of differential equations in mixtures). 
 
-The report was prepared for the Data Engineering and Analysis (Inżynieria i Analiza Danych) program, Laboratory Group L-4, evaluated by Dr. Paweł Bednarz.
-
+The report was prepared for the Data Engineering and Analysis (Inżynieria i Analiza Danych) program.
 ## 📄 File Contents
 The report is available in two formats for accessibility and editing purposes:
 *   **`project_report_PL.pdf`**: The finalized, non-editable document format containing the theoretical background and mathematical derivations.
