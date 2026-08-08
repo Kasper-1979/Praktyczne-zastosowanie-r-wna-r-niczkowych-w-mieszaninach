@@ -1,4 +1,0 @@
-Aby zadziała program trzeba pobrać pare pakietów, aby je pobrać trzeba wpisać poniższe komendy do wiersza poleceń :
-
-pip install numpy scipy matplotlib ( następnie skopiować zieloną ścieżkę, jeśli sie pakiet nie zaistalował pomyślnie, wtedy powinno zadziałać )
-pip install matplotlib scipy pillow ( następnie skopiować zieloną ścieżkę, jeśli sie pakiet nie zaistalował pomyślnie, wtedy powinno zadziałać )
